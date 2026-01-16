@@ -28,8 +28,7 @@ https://youtu.be/Ef8wMPizyY0?si=SVxk_6hBlq0GsMOZ
 
 # Perbedaan Mockup dan Hasil APK
 
-#### Perlu dijelaskan bahwa hasil APK yang dibuat tidak sepenuhnya sama dengan mockup atau wireframe pada pertemuan sebelumnya.
-
+### Perlu dijelaskan bahwa hasil APK yang dibuat tidak sepenuhnya sama dengan mockup atau wireframe pada pertemuan sebelumnya.
 ## Hal ini disebabkan oleh:
 
 ### > Adanya penyesuaian desain saat proses implementasi di Android Studio
