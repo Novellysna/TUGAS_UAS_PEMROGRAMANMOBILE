@@ -11,24 +11,20 @@ https://youtu.be/Ef8wMPizyY0?si=SVxk_6hBlq0GsMOZ
 
 # 📌 Penjelasan Aplikasi
 
-Aplikasi yang dibuat adalah aplikasi Notes bertema warna pink.
-Aplikasi ini bertujuan untuk membantu pengguna dalam mencatat, menyimpan, mengedit, dan menghapus catatan secara sederhana melalui perangkat Android.
+### Aplikasi yang dibuat adalah aplikasi Notes bertema warna pink.
+### Aplikasi ini bertujuan untuk membantu pengguna dalam mencatat, menyimpan, mengedit, dan menghapus catatan secara sederhana melalui perangkat Android.
 
-Tema warna pink dipilih untuk memberikan tampilan yang sederhana, lembut, dan user-friendly, sehingga aplikasi nyaman digunakan.
+### Tema warna pink dipilih untuk memberikan tampilan yang sederhana, lembut, dan user-friendly, sehingga aplikasi nyaman digunakan.
 
 # 🎯 Fitur Aplikasi
 
-Aplikasi Notes ini memiliki beberapa fitur utama, yaitu:
+### > Aplikasi Notes ini memiliki beberapa fitur utama, yaitu:
+### > Menampilkan daftar catatan
+### > Menambahkan catatan baru
+### > Mengedit catatan
+### > Menghapus catatan
 
-Menampilkan daftar catatan
-
-Menambahkan catatan baru
-
-Mengedit catatan
-
-Menghapus catatan
-
-Fitur-fitur tersebut telah memenuhi konsep CRUD (Create, Read, Update, Delete).
+### Fitur-fitur tersebut telah memenuhi konsep CRUD (Create, Read, Update, Delete).
 
 # 🎨 Perbedaan Mockup dan Hasil APK
 
