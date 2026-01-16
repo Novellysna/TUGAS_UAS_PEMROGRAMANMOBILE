@@ -26,17 +26,6 @@ https://youtu.be/FDaBmKdlbv4?si=1Vt2Pq8XPDTr2t0f
 
 ### Fitur-fitur tersebut telah memenuhi konsep CRUD (Create, Read, Update, Delete).
 
-# Perbedaan Mockup dan Hasil APK
-
-### Perlu dijelaskan bahwa hasil APK yang dibuat tidak sepenuhnya sama dengan mockup atau wireframe pada pertemuan sebelumnya.
-## Hal ini disebabkan oleh:
-
-### > Adanya penyesuaian desain saat proses implementasi di Android Studio
-### > Pertimbangan keterbatasan waktu dan teknis
-### > Fokus utama pada fungsionalitas aplikasi agar berjalan dengan baik
-
-### Mockup pada pertemuan sebelumnya berfungsi sebagai gambaran awal desain, sedangkan hasil APK merupakan implementasi akhir yang telah disesuaikan dengan kebutuhan dan kemampuan aplikasi.
-
 # Tools yang Digunakan
 
 ### Figma : Perancangan tampilan antarmuka (UI)
