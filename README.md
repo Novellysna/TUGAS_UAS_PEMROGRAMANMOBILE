@@ -28,26 +28,22 @@ https://youtu.be/Ef8wMPizyY0?si=SVxk_6hBlq0GsMOZ
 
 # 🎨 Perbedaan Mockup dan Hasil APK
 
-Perlu dijelaskan bahwa hasil APK yang dibuat tidak sepenuhnya sama dengan mockup atau wireframe pada pertemuan sebelumnya.
+#### Perlu dijelaskan bahwa hasil APK yang dibuat tidak sepenuhnya sama dengan mockup atau wireframe pada pertemuan sebelumnya.
 
-Hal ini disebabkan oleh:
+## Hal ini disebabkan oleh:
 
-Adanya penyesuaian desain saat proses implementasi di Android Studio
+### > Adanya penyesuaian desain saat proses implementasi di Android Studio
+### > Pertimbangan keterbatasan waktu dan teknis
+### > Fokus utama pada fungsionalitas aplikasi agar berjalan dengan baik
 
-Pertimbangan keterbatasan waktu dan teknis
-
-Fokus utama pada fungsionalitas aplikasi agar berjalan dengan baik
-
-Mockup pada pertemuan sebelumnya berfungsi sebagai gambaran awal desain, sedangkan hasil APK merupakan implementasi akhir yang telah disesuaikan dengan kebutuhan dan kemampuan aplikasi.
+### Mockup pada pertemuan sebelumnya berfungsi sebagai gambaran awal desain, sedangkan hasil APK merupakan implementasi akhir yang telah disesuaikan dengan kebutuhan dan kemampuan aplikasi.
 
 # 🛠️ Tools yang Digunakan
 
-Figma : Perancangan tampilan antarmuka (UI)
-
-Android Studio : Pengembangan aplikasi Android
-
-ClickUp : Manajemen dan dokumentasi proses pengerjaan project
+### Figma : Perancangan tampilan antarmuka (UI)
+### Android Studio : Pengembangan aplikasi Android
+### ClickUp : Manajemen dan dokumentasi proses pengerjaan project
 
 # ✅ Kesimpulan
 
-Meskipun terdapat perbedaan antara mockup awal dan hasil akhir aplikasi, tujuan utama aplikasi tetap tercapai, yaitu menyediakan aplikasi notes sederhana yang dapat digunakan dengan baik oleh pengguna.
+### Meskipun terdapat perbedaan antara mockup awal dan hasil akhir aplikasi, tujuan utama aplikasi tetap tercapai, yaitu menyediakan aplikasi notes sederhana yang dapat digunakan dengan baik oleh pengguna.
