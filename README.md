@@ -4,4 +4,6 @@
 ## Kelas: TI. 24. A1
 
 ## Link ClickUp
+
 ## Link Youtube
+https://youtu.be/Ef8wMPizyY0?si=SVxk_6hBlq0GsMOZ
